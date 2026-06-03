@@ -164,6 +164,7 @@ nav:
   - Home: index.md
   - Wikis:
       - 开始编辑: wiki/how_to_edit/howtodo.md
+      - wiki/how_to_edit/troubleshooting.md
       - 集群使用:
           - wiki/cluster_usage/cluster_usage.md
           - wiki/cluster_usage/ssh_note.md
@@ -184,6 +185,7 @@ nav:
           - wiki/new_comers/python/2024.md
           - wiki/new_comers/tools/2024-ase.md
           - wiki/new_comers/qc_dft/2024.md
+          - wiki/new_comers/training/ictp-2026-materials-simulation.md
           - wiki/new_comers/solid_electronic_structure/2024.md
           - wiki/new_comers/solid_electronic_structure/2024-qe_vasp.md
           - wiki/new_comers/statistical_mechanics/2024.md

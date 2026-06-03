@@ -177,6 +177,18 @@ fabric.properties
 .vscode/
 *.code-workspace
 
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Test artifacts
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+
 # Local History for Visual Studio Code
 .history/
 

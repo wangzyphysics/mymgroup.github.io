@@ -114,6 +114,8 @@ mkdocs serve
 
 等待片刻，打开浏览器访问 <http://127.0.0.1:8000> ，即可进行实时预览。
 
+如使用 `uv` 或遇到依赖报错，请参考：[本地预览与常见问题](./troubleshooting.md)。
+
 ### 通过 typora (注意已经收费)
 
 使用 [typora](https://www.typora.io/ "轻量化md编辑工具") 编辑器可以很方便地实时渲染 markdown 文件。如果不使用本 wiki 中标注有 `*` 的 [wiki 扩展语法](#button) ，则可以大体上认为 typora 所渲染出的文档与直接查看 [wiki 网站](../../index.md) 的文档相差无几，基本仅存在显示风格上的差异。但要注意需更改 typora 的一些设置（见后文），避免和 wiki 所使用的 markdown 扩展功能发生冲突。
